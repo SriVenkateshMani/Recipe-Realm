@@ -1,4 +1,4 @@
-# Recipe Realm - A Recipe Sharing Platform
+# Recipe Realm - A Recipe Sharing Web Platform
 
 ## Introduction:
 The Recipe Sharing Platform is a web application designed to provide users with a centralized platform to discover, share, and explore culinary creations. It aims to bring together food enthusiasts, home cooks, and professional chefs to exchange recipes, cooking tips, and culinary experiences.
